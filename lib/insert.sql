@@ -26,3 +26,12 @@ INSERT INTO character_books VALUES (5, 1, 3);
 INSERT INTO character_books VALUES (6, 2, 3);
 INSERT INTO character_books VALUES (7, 3, 3);
 INSERT INTO character_books VALUES (8, 1, 4);
+INSERT INTO character_books VALUES (9, 4, 5);
+INSERT INTO character_books VALUES (10, 4, 6);
+INSERT INTO character_books VALUES (11, 5, 6);
+INSERT INTO character_books VALUES (12, 6, 6);
+INSERT INTO character_books VALUES (13, 4, 7);
+INSERT INTO character_books VALUES (14, 5, 7);
+INSERT INTO character_books VALUES (15, 6, 7);
+INSERT INTO character_books VALUES (16, 4, 8);
+
