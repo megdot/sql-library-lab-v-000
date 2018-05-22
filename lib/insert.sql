@@ -3,7 +3,7 @@ INSERT INTO series VALUES (2, "Second Series", 2, 2);
 INSERT INTO books VALUES (1, "Game of Thrones", 1996, 1);
 INSERT INTO books VALUES (2, "A Clash of Kings", 1998, 1);
 INSERT INTO books VALUES (3, "A Storm of Swords", 2000, 1);
-INSERT INTO books VALUES (4, "First Book", 2002, 2); 
+INSERT INTO books VALUES (4, "First Book", 2002, 2);
 INSERT INTO books VALUES (5, "Second Book", 2003, 2);
 INSERT INTO books VALUES (6, "Third Book", 2005, 2);
 INSERT INTO characters VALUES (1, "Lady", "Woof Woof", "direwolf", 1, 1);
@@ -18,5 +18,11 @@ INSERT INTO subgenres VALUES (1, "medieval");
 INSERT INTO subgenres VALUES (2, "space opera");
 INSERT INTO authors VALUES (1, "George R. R. Martin");
 INSERT INTO authors VALUES (2, "Second Author");
-
-
+INSERT INTO character_books VALUES (1, 1, 1);
+INSERT INTO character_books VALUES (2, 1, 2);
+INSERT INTO character_books VALUES (3, 2, 2);
+INSERT INTO character_books VALUES (4, 3, 2);
+INSERT INTO character_books VALUES (5, 1, 3);
+INSERT INTO character_books VALUES (6, 2, 3);
+INSERT INTO character_books VALUES (7, 3, 3);
+INSERT INTO character_books VALUES (8, 1, 4);
